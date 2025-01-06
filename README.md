@@ -1,16 +1,17 @@
-## Hi there 👋
+# HELLO EVERYONE !
 
-<!--
-**MathieuFoucault/MathieuFoucault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <span style="color: blue;">**About Me**</span> 🌟
 
-Here are some ideas to get you started:
+I am a passionate web developer specializing in **JavaScript**, **React**, **TypeScript**, **MySQL**, and **Tailwind**. I strive to create modern applications and exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <span style="color: green;">**Objective**</span> 🎯
+
+My goal is to apply my skills in a dynamic environment while continuing to learn and improve.
+
+## <span style="color: orange;">**Internship Search**</span> 🔍
+
+I am seeking an internship in the Rennes area, available from February 2025. I aim to contribute to innovative projects, bringing my passion and creativity.
+
+---
+
+Thank you for reviewing my profile. Feel free to reach out to learn more about my achievements or discuss potential collaborations.
