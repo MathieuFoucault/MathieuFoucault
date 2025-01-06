@@ -15,5 +15,5 @@ I am actively looking for an internship in the Rennes area. I am motivated to co
 ---
 
 Thank you for reviewing my profile. Feel free to reach out to learn more about my achievements or discuss potential collaborations.
-## <span style="color: blue;">**[Linkedin](https://www.linkedin.com/in/mathieu-foucault-fullstack-web-dev/)**</span>
-## <span style="color: red;">**[Portfolio](https://www.linkedin.com/in/mathieu-foucault-fullstack-web-dev/)**</span>
+## <span style="color: blue;">**[Linkedin 🌍](https://www.linkedin.com/in/mathieu-foucault-fullstack-web-dev/)**</span>
+## <span style="color: red;">**[Portfolio 🤝](https://portfolio-foucault-mathieu.vercel.app/ )**</span>
